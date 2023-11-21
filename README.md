@@ -36,3 +36,17 @@ delete
 tero=> DELETE FROM students WHERE name='Liisa';
 DELETE 1
 tero=> SELECT * FROM students;
+
+SQL injection
+
+SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. This can allow an attacker to view data that they are not normally able to retrieve.
+
+A successful SQL injection attack can result in unauthorized access to sensitive data, such as:
+
+Passwords.
+Credit card details.
+Personal user information.
+
+You can detect SQL injection manually using a systematic set of tests against every entry point in the application. 
+
+
