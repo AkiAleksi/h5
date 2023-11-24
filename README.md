@@ -91,3 +91,8 @@ $ sudo -u postgres createuser kali
 
 
 ![4jee](https://github.com/AkiAleksi/h5/assets/112399816/0d65a9ca-9814-4d9f-be7b-bd7765676269)
+
+
+b.)
+
+
