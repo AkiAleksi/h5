@@ -57,7 +57,10 @@ a.)
 
 
 
-![alku2](https://github.com/AkiAleksi/h5/assets/112399816/282494cd-72e2-4785-acba-8248689485aa)
+
+$ sudo -u postgres createdb kali
+$ sudo -u postgres createuser kali
+$ sudo -u postgres psql -c "ALTER DATABASE kali OWNER TO kali;"
 
 
 
