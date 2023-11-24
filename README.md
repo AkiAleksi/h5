@@ -95,10 +95,12 @@ $ sudo -u postgres createuser kali
 
 b.)
 
-SELECT * FROM Users WHERE UserId = 105 OR 1=1;
+SELECT * FROM Users WHERE id = 10 OR 1=1;
 
 
 The SQL above is valid and will return ALL rows from the "Users" table, since OR 1=1 is always TRUE.
+
+id avain on valmiina ohjelmassa. Käyttäjän syöte on id:n arvo ja johon on jatkettu OR lause.
 
 
 ![xdddd](https://github.com/AkiAleksi/h5/assets/112399816/e7b429b9-d019-493d-a320-c45d753e8f7e)
