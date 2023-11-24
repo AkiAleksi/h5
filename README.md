@@ -65,10 +65,6 @@ $ sudo -u postgres createuser kali
 
 
 
-$ sudo -u postgres psql -c "ALTER DATABASE kali OWNER TO kali;"
-
-
-
 
 
 ![alku3](https://github.com/AkiAleksi/h5/assets/112399816/59879e3a-48f4-4867-9e67-2102bd76bae2)
