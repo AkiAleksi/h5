@@ -49,4 +49,41 @@ Personal user information.
 
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. 
 
+a.)
 
+
+![alku](https://github.com/AkiAleksi/h5/assets/112399816/194cd8be-a30c-43e2-a335-f66ab08e8ec7)
+
+
+
+
+![alku2](https://github.com/AkiAleksi/h5/assets/112399816/282494cd-72e2-4785-acba-8248689485aa)
+
+
+
+
+
+![alku3](https://github.com/AkiAleksi/h5/assets/112399816/59879e3a-48f4-4867-9e67-2102bd76bae2)
+
+
+
+![1jee](https://github.com/AkiAleksi/h5/assets/112399816/d33a7880-6ad9-4c9e-b5be-d437df410e65)
+
+
+
+
+![2jee](https://github.com/AkiAleksi/h5/assets/112399816/0d4d2d24-e0f2-4c7d-b2b1-3793d2d516b6)
+
+
+
+
+![3jee](https://github.com/AkiAleksi/h5/assets/112399816/c6b810fb-84b6-487a-a866-d2884351726e)
+
+
+
+
+
+
+
+
+![4jee](https://github.com/AkiAleksi/h5/assets/112399816/0d65a9ca-9814-4d9f-be7b-bd7765676269)
