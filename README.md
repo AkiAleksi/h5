@@ -75,6 +75,8 @@ sudo -u postgres psql -c "ALTER DATABASE kali OWNER TO kali;"
 ![alku3](https://github.com/AkiAleksi/h5/assets/112399816/59879e3a-48f4-4867-9e67-2102bd76bae2)
 
 
+Loin uuden taulun.
+CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 
 ![1jee](https://github.com/AkiAleksi/h5/assets/112399816/d33a7880-6ad9-4c9e-b5be-d437df410e65)
 
