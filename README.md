@@ -50,12 +50,12 @@ Personal user information.
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. 
 
 a.)
-
+ensiksi asensin ja käynnistin postgreSQL tietokannan
 
 ![alku](https://github.com/AkiAleksi/h5/assets/112399816/194cd8be-a30c-43e2-a335-f66ab08e8ec7)
 
 
-
+Sen jälkeen loin tietokannan ja käyttäjän.
 
 
 $ sudo -u postgres createdb kali
