@@ -64,7 +64,10 @@ $ sudo -u postgres createdb kali
 $ sudo -u postgres createuser kali
 
 
-Tein käyttäjästä kali databasen ownerin komennolla.
+Tein käyttäjästä kali databasen ownerin komennolla:
+
+
+
 sudo -u postgres psql -c "ALTER DATABASE kali OWNER TO kali;"
 
 
