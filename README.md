@@ -316,3 +316,9 @@ https://www.youtube.com/watch?v=MFTk_LNRW0g
 https://www.youtube.com/watch?v=yRVYoqR9vrI
 
 https://www.youtube.com/watch?v=ZbwIbIq5-eE
+
+https://terokarvinen.com/2016/03/05/postgresql-install-and-one-table-database-sql-crud-tutorial-for-ubuntu/
+
+https://owasp.org/www-project-top-ten/2017/A1_2017-Injection
+
+https://portswigger.net/web-security/sql-injection/cheat-sheet
