@@ -29,6 +29,7 @@ tero=> SELECT * FROM students;
 update
 
 tero=> UPDATE students SET name='Tero Karvinen' WHERE name='Tero';
+
 UPDATE 1
 
 delete
@@ -75,7 +76,8 @@ sudo -u postgres psql -c "ALTER DATABASE kali OWNER TO kali;"
 ![alku3](https://github.com/AkiAleksi/h5/assets/112399816/59879e3a-48f4-4867-9e67-2102bd76bae2)
 
 
-Loin uuden taulun.
+Loin uuden taulun:
+
 CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 
 ![1jee](https://github.com/AkiAleksi/h5/assets/112399816/d33a7880-6ad9-4c9e-b5be-d437df410e65)
@@ -83,14 +85,18 @@ CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 
 CRUD
 Loin uuden nimen tauluun.
+
 INSERT INTO students(name) VALUES ('Aki');
-Sen jälkeen tein Read kohdan komennolla.
+
+Sen jälkeen tein Read kohdan komennolla:
+
 SELECT * FROM students;
 
 ![2jee](https://github.com/AkiAleksi/h5/assets/112399816/0d4d2d24-e0f2-4c7d-b2b1-3793d2d516b6)
 
 
-Päivitin nimen Aki. Nimeen Aki Hietamäki.
+Päivitin nimen Aki. Nimeen Aki Hietamäki:
+
 UPDATE students SET name='Aki Hietamäki' WHERE name='Aki'; 
 
 ![3jee](https://github.com/AkiAleksi/h5/assets/112399816/c6b810fb-84b6-487a-a866-d2884351726e)
@@ -98,7 +104,8 @@ UPDATE students SET name='Aki Hietamäki' WHERE name='Aki';
 
 
 
-Sen jälkeen poistin.
+Sen jälkeen poistin:
+
 DELETE FROM students WHERE name='Aki';
 
 
