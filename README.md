@@ -247,22 +247,27 @@ Lisäsin NULL niin kauan, että ei tullut erroria.
 
 i.)
 
+Tein zap kaappauksen. Laitoin komennon:
+
+'+UNION+SELECT+username,password+FROM+users--   
 
 ![ggg](https://github.com/AkiAleksi/h5/assets/112399816/3b1b10d9-04ca-43c7-b75b-b905b4961710)
 
 
-
+Löysin vastauksesta admin käyttäjänimen sekä salasanan.
 
 ![Screenshot 2023-11-25 at 14 02 58](https://github.com/AkiAleksi/h5/assets/112399816/1d823a47-037a-41ec-ba18-5000374d0c37)
 
-
+Kirjauduin sisään näillä tiedoilla.
 
 ![Screenshot 2023-11-25 at 14 07 55](https://github.com/AkiAleksi/h5/assets/112399816/2035889e-45f1-4cec-93b7-696b26b7357f)
+
+Lab ratkaistu.
 
 j.)
 
 
-
+Tehtävässä pitää saada useita arvoja yhdelle sarakkeelle. 
 
 ![admin1](https://github.com/AkiAleksi/h5/assets/112399816/87743028-bcfd-493f-92f9-4e1e5e23769b)
 
