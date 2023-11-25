@@ -1,5 +1,11 @@
 # h5
 
+# x
+
+Poimin mielestäni tärkeimmät poiminnat lähteistä.
+Tein tämän englanniksi, kun tekstikin oli englanniksi.
+
+
 PostgreSQL Install and One Table Database – SQL CRUD tutorial for Ubuntu
 
 Three line install
@@ -14,29 +20,29 @@ $ psql
 
 table
 
-tero=> CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
+CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 CREATE TABLE
 
 insert
 
-tero=> INSERT INTO students(name) VALUES ('Tero');
+INSERT INTO students(name) VALUES ('Aki');
 INSERT 0 1
 
 select
 
-tero=> SELECT * FROM students;
+SELECT * FROM students;
 
 update
 
-tero=> UPDATE students SET name='Tero Karvinen' WHERE name='Tero';
+UPDATE students SET name='Aki Hietamäki' WHERE name='Aki';
 
 UPDATE 1
 
 delete
 
-tero=> DELETE FROM students WHERE name='Liisa';
+DELETE FROM students WHERE name='Aki Hietamäki';
 DELETE 1
-tero=> SELECT * FROM students;
+SELECT * FROM students;
 
 SQL injection
 
@@ -51,6 +57,7 @@ Personal user information.
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. 
 
 # a.)
+
 ensiksi asensin ja käynnistin postgreSQL tietokannan
 
 ![alku](https://github.com/AkiAleksi/h5/assets/112399816/194cd8be-a30c-43e2-a335-f66ab08e8ec7)
@@ -290,6 +297,9 @@ Kirjoittamalla tiedot pääsin kirjautumaan sisään.
 
 
 ![ratkaisu](https://github.com/AkiAleksi/h5/assets/112399816/2bc8f513-880a-47d8-a856-45cdc6689196)
+
+
+
 
 # Lähteet
 
