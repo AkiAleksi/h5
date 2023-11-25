@@ -127,10 +127,11 @@ id avain on valmiina ohjelmassa. Käyttäjän syöte on id:n arvo ja johon on ja
 
 c.)
 
+Menin labissa niin, että sain category kohdan näkyviin.
 
 ![Screenshot 2023-11-24 at 14 12 37](https://github.com/AkiAleksi/h5/assets/112399816/f305305f-dbc7-41e8-b524-3ba3e7f4d075)
 
-
+Muokkasin category parametria antamalla sille arvon '+OR+1=1--
 
 ![Screenshot 2023-11-24 at 14 13 13](https://github.com/AkiAleksi/h5/assets/112399816/c700b799-ade3-4bb8-a589-90c5960d7900)
 
