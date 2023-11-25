@@ -97,7 +97,7 @@ SELECT * FROM students;
 
 Päivitin nimen Aki. Nimeen Aki Hietamäki:
 
-UPDATE students SET name='Aki Hietamäki' WHERE name='Aki'; 
+UPDATE students SET name='Aki Hietamäki' WHERE name='Aki Hietamäki'; 
 
 ![3jee](https://github.com/AkiAleksi/h5/assets/112399816/c6b810fb-84b6-487a-a866-d2884351726e)
 
