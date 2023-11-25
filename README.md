@@ -269,16 +269,22 @@ j.)
 
 Tehtävässä pitää saada useita arvoja yhdelle sarakkeelle. 
 
-![admin1](https://github.com/AkiAleksi/h5/assets/112399816/87743028-bcfd-493f-92f9-4e1e5e23769b)
 
-
-
+Labin solutions kohdasta löysin komennon:
+'+UNION+SELECT+NULL,username|| '-' ||password+FROM+users--
 
 
 ![kkkkkkkkkk](https://github.com/AkiAleksi/h5/assets/112399816/ce1024f6-f6f4-4688-a31e-710b8393cee5)
 
 
+Sain vastauksen, josta löytyi adminin salasana.
 
+
+![admin1](https://github.com/AkiAleksi/h5/assets/112399816/87743028-bcfd-493f-92f9-4e1e5e23769b)
+
+
+
+Kirjoittamalla tiedot pääsin kirjautumaan sisään.
 
 
 
