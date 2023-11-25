@@ -84,19 +84,22 @@ CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 CRUD
 Loin uuden nimen tauluun.
 INSERT INTO students(name) VALUES ('Aki');
+Sen jälkeen tein Read kohdan komennolla.
+SELECT * FROM students;
 
 ![2jee](https://github.com/AkiAleksi/h5/assets/112399816/0d4d2d24-e0f2-4c7d-b2b1-3793d2d516b6)
 
 
-
+Päivitin nimen Aki. Nimeen Aki Hietamäki.
+UPDATE students SET name='Aki Hietamäki' WHERE name='Aki'; 
 
 ![3jee](https://github.com/AkiAleksi/h5/assets/112399816/c6b810fb-84b6-487a-a866-d2884351726e)
 
 
 
 
-
-
+Sen jälkeen poistin.
+DELETE FROM students WHERE name='Aki';
 
 
 ![4jee](https://github.com/AkiAleksi/h5/assets/112399816/0d65a9ca-9814-4d9f-be7b-bd7765676269)
