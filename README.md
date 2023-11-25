@@ -210,3 +210,21 @@ Lisäsin NULL niin kauan, että ei tullut erroria.
 
 
 ![Screenshot 2023-11-25 at 13 34 49](https://github.com/AkiAleksi/h5/assets/112399816/5f0a0222-1079-415b-9746-a702579cc0c6)
+
+i.)
+
+
+![ggg](https://github.com/AkiAleksi/h5/assets/112399816/3b1b10d9-04ca-43c7-b75b-b905b4961710)
+
+
+
+
+![Screenshot 2023-11-25 at 14 02 58](https://github.com/AkiAleksi/h5/assets/112399816/1d823a47-037a-41ec-ba18-5000374d0c37)
+
+
+
+![Screenshot 2023-11-25 at 14 07 55](https://github.com/AkiAleksi/h5/assets/112399816/2035889e-45f1-4cec-93b7-696b26b7357f)
+
+j.)
+
+
