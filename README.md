@@ -50,7 +50,7 @@ Personal user information.
 
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. 
 
-a.)
+# a.)
 ensiksi asensin ja käynnistin postgreSQL tietokannan
 
 ![alku](https://github.com/AkiAleksi/h5/assets/112399816/194cd8be-a30c-43e2-a335-f66ab08e8ec7)
@@ -112,7 +112,7 @@ DELETE FROM students WHERE name='Aki';
 ![4jee](https://github.com/AkiAleksi/h5/assets/112399816/0d65a9ca-9814-4d9f-be7b-bd7765676269)
 
 
-b.)
+# b.)
 
 SELECT * FROM Users WHERE id = 10 OR 1=1;
 
@@ -125,7 +125,7 @@ id avain on valmiina ohjelmassa. Käyttäjän syöte on id:n arvo ja johon on ja
 
 ![xdddd](https://github.com/AkiAleksi/h5/assets/112399816/e7b429b9-d019-493d-a320-c45d753e8f7e)
 
-c.)
+# c.)
 
 Menin labissa niin, että sain category kohdan näkyviin.
 
@@ -137,7 +137,7 @@ Muokkasin category parametria antamalla sille arvon '+OR+1=1--
 
 
 
-d.)
+# d.)
 
 Muokkasin administrator parametria administrator'--
 
@@ -148,7 +148,7 @@ Muokkasin administrator parametria administrator'--
 ![Screenshot 2023-11-24 at 14 23 20](https://github.com/AkiAleksi/h5/assets/112399816/810df58f-6ba5-4ae5-82f7-c5a7e251c392)
 
 
-e.)
+# e.)
 
 
 Pitää selvittää tietokannan tyyppi ja versio. Haavoittuvuus on kategoria filtterissä.
@@ -163,7 +163,7 @@ Muokkasin kategori parametria.
 
 
 
-f.)
+# f.)
 
 Tehtävänanto kertoo, että laboratoriossa on SQL-injektio haavoittuvuus tuotekategorian suodattimessa.
 
@@ -179,7 +179,7 @@ Lisäsin komennon Zapissa kategoria kohtaan.
 Tehtävä suoritettu!!
 
 
-g.)
+# g.)
 
 
 Etsin kaikki taulut tietokannasta
@@ -222,7 +222,7 @@ Kirjauduin tiedoilla MY account sivulta.
 
 Lab suoritettu!!!!
 
-h.)
+# h.)
 
 Katsoin läpikävelyn kyseisestä tehtävästä.
 
@@ -245,7 +245,7 @@ Lisäsin NULL niin kauan, että ei tullut erroria.
 
 ![Screenshot 2023-11-25 at 13 34 49](https://github.com/AkiAleksi/h5/assets/112399816/5f0a0222-1079-415b-9746-a702579cc0c6)
 
-i.)
+# i.)
 
 Tein zap kaappauksen. Laitoin komennon:
 
@@ -264,7 +264,7 @@ Kirjauduin sisään näillä tiedoilla.
 
 Lab ratkaistu.
 
-j.)
+# j.)
 
 
 Tehtävässä pitää saada useita arvoja yhdelle sarakkeelle. 
@@ -291,3 +291,12 @@ Kirjoittamalla tiedot pääsin kirjautumaan sisään.
 
 ![ratkaisu](https://github.com/AkiAleksi/h5/assets/112399816/2bc8f513-880a-47d8-a856-45cdc6689196)
 
+# Lähteet
+
+https://www.youtube.com/watch?v=4UxUpsCZQfI
+
+https://www.youtube.com/watch?v=MFTk_LNRW0g
+
+https://www.youtube.com/watch?v=yRVYoqR9vrI
+
+https://www.youtube.com/watch?v=ZbwIbIq5-eE
