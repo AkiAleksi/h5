@@ -139,7 +139,7 @@ Muokkasin category parametria antamalla sille arvon '+OR+1=1--
 
 d.)
 
-
+Muokkasin administrator parametria administrator'--
 
 ![Screenshot 2023-11-24 at 14 22 13](https://github.com/AkiAleksi/h5/assets/112399816/6501edc1-4712-43ec-8f7b-467a8b1a8e89)
 
