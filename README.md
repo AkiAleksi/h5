@@ -83,6 +83,7 @@ CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 
 CRUD
 Loin uuden nimen tauluun.
+INSERT INTO students(name) VALUES ('Aki');
 
 ![2jee](https://github.com/AkiAleksi/h5/assets/112399816/0d4d2d24-e0f2-4c7d-b2b1-3793d2d516b6)
 
