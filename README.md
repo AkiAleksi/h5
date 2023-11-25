@@ -165,23 +165,18 @@ Muokkasin kategori parametria.
 
 f.)
 
+Tehtävänanto kertoo, että laboratoriossa on SQL-injektio haavoittuvuus tuotekategorian suodattimessa.
 
-![Screenshot 2023-11-24 at 16 37 05](https://github.com/AkiAleksi/h5/assets/112399816/34d1186f-c68b-4e5b-bddb-0fd5ed2d287a)
+Löysin tehtävän lunntilapusta tämän komennon:
 
+'+UNION+SELECT+@@version,+NULL#
 
-
-
-
-![Screenshot 2023-11-24 at 16 37 50](https://github.com/AkiAleksi/h5/assets/112399816/ffd305ee-84c6-4854-8f9b-ac9d991ad8f1)
-
-
-
-
-
+Lisäsin komennon Zapissa kategoria kohtaan.
 
 
 ![Screenshot 2023-11-24 at 16 38 20](https://github.com/AkiAleksi/h5/assets/112399816/87f1af3d-33dc-4e81-aac8-655b4e6d5826)
 
+Tehtävä suoritettu!!
 
 
 g.)
