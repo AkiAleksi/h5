@@ -116,8 +116,9 @@ b.)
 
 SELECT * FROM Users WHERE id = 10 OR 1=1;
 
+Yläpuolella oleva SQL lause palauttaa kaikki rivit "Users" taulusta,
+koska OR 1=1 on aina tosi. Vaikka id 10 ei ole mitään sisältöä.
 
-The SQL above is valid and will return ALL rows from the "Users" table, since OR 1=1 is always TRUE.
 
 id avain on valmiina ohjelmassa. Käyttäjän syöte on id:n arvo ja johon on jatkettu OR lause.
 
