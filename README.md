@@ -151,7 +151,12 @@ Muokkasin administrator parametria administrator'--
 e.)
 
 
+Pitää selvittää tietokannan tyyppi ja versio. Haavoittuvuus on kategoria filtterissä.
+ORACLE tietokanta.
 
+Löysin injection tehtävää varten labin walkthroughsta.
+Muokkasin kategori parametria.
+'+UNION+SELECT+BANNER,+NULL+FROM+v$version--
 
 ![Screenshot 2023-11-24 at 15 17 33](https://github.com/AkiAleksi/h5/assets/112399816/b5504c02-1e81-435c-8e0a-71fd18f03f08)
 
