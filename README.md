@@ -228,3 +228,20 @@ i.)
 j.)
 
 
+
+
+![admin1](https://github.com/AkiAleksi/h5/assets/112399816/87743028-bcfd-493f-92f9-4e1e5e23769b)
+
+
+
+
+
+![kkkkkkkkkk](https://github.com/AkiAleksi/h5/assets/112399816/ce1024f6-f6f4-4688-a31e-710b8393cee5)
+
+
+
+
+
+
+![ratkaisu](https://github.com/AkiAleksi/h5/assets/112399816/2bc8f513-880a-47d8-a856-45cdc6689196)
+
