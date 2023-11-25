@@ -9,11 +9,17 @@ Tein tämän englanniksi, kun tekstikin oli englanniksi.
 PostgreSQL Install and One Table Database – SQL CRUD tutorial for Ubuntu
 
 Three line install
+
 $ sudo apt-get update
+
 $ sudo apt-get -y install postgresql
+
 $ sudo systemctl start 
+
 $ sudo -u postgres createdb $(whoami)
+
 $ sudo -u postgres createuser $(whoami)
+
 The trick is to use your Linux system username for PostgreSQL database and PostgreSQL user. Then authentication is automatic.
 
 $ psql
