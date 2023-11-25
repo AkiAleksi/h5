@@ -81,7 +81,8 @@ CREATE TABLE students (id SERIAL PRIMARY KEY, name VARCHAR(200));
 ![1jee](https://github.com/AkiAleksi/h5/assets/112399816/d33a7880-6ad9-4c9e-b5be-d437df410e65)
 
 
-
+CRUD
+Loin uuden nimen tauluun.
 
 ![2jee](https://github.com/AkiAleksi/h5/assets/112399816/0d4d2d24-e0f2-4c7d-b2b1-3793d2d516b6)
 
